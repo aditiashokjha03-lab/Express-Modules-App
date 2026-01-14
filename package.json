@@ -1,0 +1,25 @@
+{
+  "name": "express-modules-app",
+  "version": "1.0.0",
+  "description": "Express app using fs, os, and dns modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "fs",
+    "os",
+    "dns"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
